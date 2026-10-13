@@ -1,0 +1,13 @@
+column,missing_values
+ID,0
+date,0
+meals_served,0
+kitchen_staff,0
+temperature_C,0
+humidity_percent,0
+day_of_week,0
+special_event,0
+past_waste_kg,0
+staff_experience,0
+waste_category,0
+food_waste_kg,0
