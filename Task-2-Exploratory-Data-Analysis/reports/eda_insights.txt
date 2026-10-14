@@ -1,0 +1,9 @@
+1. Category comparison: Meat has the highest average food waste (46.30 kg), while Grains has the lowest (42.00 kg).
+
+2. Meals and waste: the Pearson correlation is 0.852. This describes a linear association and does not establish causation.
+
+3. Staff experience comparison: Beginner has the highest observed average food waste (47.85 kg). This is an association, not proof that experience causes the difference.
+
+4. Day-code comparison: code 2 has the highest average waste (47.06 kg); code 1 has the lowest (42.33 kg). The code-to-weekday mapping has not been assumed.
+
+5. Outlier screening: the IQR rule flags 24 records with food waste below 7.15 kg or above 75.78 kg. These are candidates for investigation, not automatically errors.

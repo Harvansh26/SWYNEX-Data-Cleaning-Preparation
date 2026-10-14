@@ -1,0 +1,5 @@
+waste_category,count,mean,median,std
+Meat,379,46.3,41.26,32.97
+Vegetables,176,45.85,42.6,27.45
+Dairy,180,43.56,41.51,22.75
+Grains,176,42.0,40.32,20.3
